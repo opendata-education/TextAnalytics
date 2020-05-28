@@ -1,3 +1,6 @@
+Orange can be downloaded from:
+https://orange.biolab.si/download/#windows
+
 Orange demo files. 
 Following channel has been the reference:
 https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g
